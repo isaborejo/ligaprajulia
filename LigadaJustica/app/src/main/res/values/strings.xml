@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">LigadaJustica</string>
+    <string name="rdb1"> Batman </string>
+    <string name="rdb2"> Mulher-Maravilha </string>
+    <string name="rdb3"> Mulher-Gavião </string>
+    <string name="rdb4"> Flash </string>
+
+    <string name="btn1"> VISUALIZAR </string>
+    <string name="btn2"> ler mais</string>
+
+
+    <string name="txt1"> BATMAN </string>
+    <string name="txt2"> NOME: </string>
+    <string name="txt3"> Bruce Wayne </string>
+    <string name="txt4"> CODINOME:  </string>
+    <string name="txt5"> Batman </string>
+    <string name="txt6"> ESPÉCIE: </string>
+    <string name="txt7"> Humano </string>
+    <string name="txt8"> CÓDIGO: </string>
+    <string name="txt9"> 1001 </string>
+    <string name="txt10"> HABILIDADES: </string>
+    <string name="txt11"> Intelecto bem desenvolvido, perícia em artes marciais e perícia em artes marciais. </string>
+    <string name="txt12"> VULNERABILIDADE: </string>
+    <string name="txt13"> Ataques mentais relacionados aos seus pais. </string>
+    <string name="txt14"> EQUIPAMENTO: </string>
+    <string name="txt15"> Batarangue, Bat-Garra, etc...</string>
+
+
+    <string name="txt16"> MULHER-MARAVILHA </string>
+    <string name="txt17"> NOME: </string>
+    <string name="txt18"> Diana da Ilha Paraíso</string>
+    <string name="txt19"> CODINOME:  </string>
+    <string name="txt20"> Mulher-Maravilha </string>
+    <string name="txt21"> ESPÉCIE: </string>
+    <string name="txt22"> Amazona </string>
+    <string name="txt23"> CÓDIGO: </string>
+    <string name="txt24"> 1002 </string>
+    <string name="txt25"> HABILIDADES: </string>
+    <string name="txt26"> Super-força, fator de cura e voo </string>
+    <string name="txt27"> VULNERABILIDADE: </string>
+    <string name="txt28"> Deuses gregos, diferentes dimensões e armas perfurantes </string>
+    <string name="txt29"> EQUIPAMENTO: </string>
+    <string name="txt30"> Laço,  braceletes, etc...</string>
+
+    <string name="txt31"> MULHER-GAVIÃO </string>
+    <string name="txt32"> NOME: </string>
+    <string name="txt33"> Shiera Sanders </string>
+    <string name="txt34"> CODINOME:  </string>
+    <string name="txt35"> Mulher-Gavião </string>
+    <string name="txt36"> ESPÉCIE: </string>
+    <string name="txt37"> Shayera Hol </string>
+    <string name="txt38"> CÓDIGO: </string>
+    <string name="txt39"> 1003 </string>
+    <string name="txt40"> HABILIDADES: </string>
+    <string name="txt41"> Voo, força reforçada, reencarnação  </string>
+    <string name="txt42"> VULNERABILIDADE: </string>
+    <string name="txt43"> Desconhecida </string>
+    <string name="txt44"> EQUIPAMENTO: </string>
+    <string name="txt45"> Cinto anti-gravidade, asas de pena artificiais, etc...</string>
+
+    <string name="txt46"> FLASH </string>
+    <string name="txt47"> NOME: </string>
+    <string name="txt48"> Barry Allen </string>
+    <string name="txt49"> CODINOME:  </string>
+    <string name="txt50"> Flash </string>
+    <string name="txt51"> ESPÉCIE: </string>
+    <string name="txt52"> Humano </string>
+    <string name="txt53"> CÓDIGO: </string>
+    <string name="txt54"> 1004 </string>
+    <string name="txt55"> HABILIDADES: </string>
+    <string name="txt56"> Super velocidade </string>
+    <string name="txt57"> VULNERABILIDADE: </string>
+    <string name="txt58"> Mortalidade </string>
+    <string name="txt59"> EQUIPAMENTO: </string>
+    <string name="txt60"> Uniforme especial</string>
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#6CFFEB3B"
+    tools:context=".MainActivity">
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="294dp"
+        android:layout_height="139dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="56dp"
+        app:layout_constraintBottom_toTopOf="@+id/btn1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.696">
+
+        <RadioButton
+            android:id="@+id/rdb1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/coustard_black"
+            android:gravity="top"
+            android:text="@string/rdb1"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/rdb2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/coustard_black"
+            android:text="@string/rdb2"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/rdb3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/coustard_black"
+            android:text="@string/rdb3"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/rdb4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/coustard_black"
+            android:text="@string/rdb4"
+            android:textSize="18sp" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="168dp"
+        android:layout_height="57dp"
+        android:layout_marginStart="108dp"
+        android:fontFamily="@font/coustard_black"
+        android:onClick="Trocar"
+        android:text="@string/btn1"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.896" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="44dp"
+        android:layout_marginTop="64dp"
+        android:contentDescription="TODO"
+        app:layout_constraintBottom_toTopOf="@+id/radioGroup"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/foto" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="123dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="132dp"
+        android:layout_marginBottom="4dp"
+        android:onClick="Ler"
+        android:text="@string/btn2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
